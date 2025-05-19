@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+#Weblink {
+  display: flex;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center;     /* Centers content vertically */
+  text-align: center;      /* Ensures text is centered */
+}
+
+#Weblink a {
+  color: #7FFFD4; 
+  font-size: 16px;   /* Sets the link color to aquamarine */
+
+  font-weight: bold;       /* Makes the link text bold */
+}
